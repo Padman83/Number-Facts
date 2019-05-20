@@ -16,4 +16,4 @@ numberInput.addEventListener('input', getFactAjax);
         }
    }
    xhr.send();
-   };
+   }
